@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "calc-pi", "calc-pi\calc-pi.fsproj", "{CCE5411E-C995-427B-A021-EF5B4A56A2FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE5411E-C995-427B-A021-EF5B4A56A2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE5411E-C995-427B-A021-EF5B4A56A2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE5411E-C995-427B-A021-EF5B4A56A2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE5411E-C995-427B-A021-EF5B4A56A2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B389693-5DF4-4720-B2C8-BFC92164A9CF}
+	EndGlobalSection
+EndGlobal
